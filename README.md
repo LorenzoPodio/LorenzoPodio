@@ -1,7 +1,7 @@
 # <div align="center">Hey! 👋 I'm Lorenzo Podio</div>  
 
 <div align="center">
-<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" align="center" style="width: 100%; height: 75%;" />
 </div>    
 
 #### <div align="center">I'm a full-stack developer from Córdoba, Argentina 📍, who likes to help, to work in team, and learn from other people</div>  

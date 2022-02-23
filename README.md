@@ -45,9 +45,9 @@ function hi(language) {
 }
 
 // Copy and paste all previous lines in your console(F12), then do the same with the next one:
-const english = hola("eng");
+const english = hi("eng");
 // Copia y pega todas lineas previas en tu consola(F12), luego has lo mismo con la siguiente:
-const español = hola("esp");
+const español = hi("esp");
 ```
 <br/>
 
